@@ -52,9 +52,6 @@ Figure 02  Encoder 8 * 3
 
 **PROGRAM**
 
-**DEVELOPED BY : THARUN SRIDHAR**
-**REGISTER NO : 212223230230**
-
 ```
 module Exp5(y0,y1,y2,y3,y4,y5,y6,y7,a,b,c);
 input y0,y1,y2,y3,y4,y5,y6,y7;
